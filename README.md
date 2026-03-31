@@ -1,6 +1,6 @@
 Cervical Cancer Awareness Website:
 
-A simple, responsive website to spread awareness about cervical cancer — covering symptoms, prevention, HPV vaccination and early detection.
+A simple, responsive website to spread awareness about cervical cancer — covering symptoms, prevention and early detection.
 
 Built With:
 - HTML, CSS, JavaScript

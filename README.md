@@ -5,3 +5,4 @@ A simple, responsive website to spread awareness about cervical cancer — cover
 Built With:
 - HTML, CSS, JavaScript
 - AI-assisted (ChatGPT + DeepSeek)
+Live link: https://srivastavsanidhya2206.github.io/cervical-cancer-awareness-website-new/
